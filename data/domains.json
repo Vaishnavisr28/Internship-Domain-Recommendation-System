@@ -1,0 +1,27 @@
+[
+  {
+    "domain": "AI / Machine Learning",
+    "required_skills": ["python"],
+    "keywords": ["machine learning", "deep learning", "ai", "nlp"]
+  },
+  {
+    "domain": "Data Science",
+    "required_skills": ["python", "sql"],
+    "keywords": ["data analysis", "statistics", "visualization"]
+  },
+  {
+    "domain": "Web Development",
+    "required_skills": ["html", "javascript"],
+    "keywords": ["frontend", "backend", "react", "api"]
+  },
+  {
+    "domain": "RPA / Automation",
+    "required_skills": [],
+    "keywords": ["automation", "workflow", "bot"]
+  },
+  {
+    "domain": "Cyber Security",
+    "required_skills": [],
+    "keywords": ["security", "network", "penetration"]
+  }
+]
